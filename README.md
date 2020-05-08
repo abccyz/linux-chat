@@ -364,6 +364,8 @@ sudo add-apt-repository ppa:cybermax-dexter/sdl2-backport
 - 关于安装好后菜单栏有2个快捷方式的问题
   - 执行 `rm -rf /home/你的账户名/.local/share/application/wine/企业微信.desktop ` 删除即可
 
+**使用到的资源(GitHub单文件超过100MB不让传):**
+链接: https://pan.baidu.com/s/16CNlsXd6Py3_MOV7_cGc-A 提取码: pvm3 复制这段内容后打开百度网盘手机App，操作更方便哦
 
 
 > 基本上完美了，O(∩_∩)O哈哈哈~ 如果使用过程中有什么问题可以给我留言或者发邮件 mailto:1290084841@qq.com 
