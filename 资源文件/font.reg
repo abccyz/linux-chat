@@ -1,0 +1,10 @@
+REGEDIT4
+ 
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink]
+"Lucida Sans Unicode"="simsun.ttc"
+"Microsoft Sans Serif"="simsun.ttc"
+"Tahoma"="simsun.ttc"
+"Tahoma Bold"="simsun.ttc"
+"SimSun"="simsun.ttc"
+"Arial"="simsun.ttc"
+"Arial Black"="simsun.ttc"

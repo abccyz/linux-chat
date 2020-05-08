@@ -1,0 +1,51 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows NT\CurrentVersion\FontSubstitutes]
+
+"Arial"="simsun"
+
+"Arial CE,238"="simsun"
+
+"Arial CYR,204"="simsun"
+
+"Arial Greek,161"="simsun"
+
+"Arial TUR,162"="simsun"
+
+"Courier New"="simsun"
+
+"Courier New CE,238"="simsun"
+
+"Courier New CYR,204"="simsun"
+
+"Courier New Greek,161"="simsun"
+
+"Courier New TUR,162"="simsun"
+
+"FixedSys"="simsun"
+
+"Helv"="simsun"
+
+"Helvetica"="simsun"
+
+"MS Sans Serif"="simsun"
+
+"MS Shell Dlg"="simsun"
+
+"MS Shell Dlg 2"="simsun"
+
+"System"="simsun"
+
+"Tahoma"="simsun"
+
+"Times"="simsun"
+
+"Times New Roman CE,238"="simsun"
+
+"Times New Roman CYR,204"="simsun"
+
+"Times New Roman Greek,161"="simsun"
+
+"Times New Roman TUR,162"="simsun"
+
+"Tms Rmn"="simsun"
