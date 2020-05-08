@@ -2,7 +2,7 @@
 
 > linux-tencent
 
-> linux下安装非deepin 企业微信，微信
+> linux 下非deepin的企业微信和微信安装方法
 
  
 > 前言：之前使用wine封装的`QQ`或者微信亦或者是企业微信使用起来总是不爽，所以尝试自行安装`wine`然后再安装`win`下的应用,本篇文章理论适应所有的`Windows`的应用.
