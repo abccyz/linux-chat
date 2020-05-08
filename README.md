@@ -1,4 +1,4 @@
-#Wine安装原版企业微信教程(非deepin版本)
+# Wine安装原版企业微信教程(非deepin版本)
 
 > linux-tencent
 
