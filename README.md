@@ -37,6 +37,17 @@
 
 ## 准备
 
+###  推荐大家这个基于Ubuntu18的[ElementaryOS](https://elementary.io)
+<strong >`台式机或笔记本内存较小用户的福音`</strong>
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200525095120121.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2FiY2N5eg==,size_16,color_FFFFFF,t_70)
+- 看看我的8G内存在这个系统上表现
+![资源占用](https://img-blog.csdnimg.cn/20200525095328264.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2FiY2N5eg==,size_16,color_FFFFFF,t_70)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/2020052509555849.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2FiY2N5eg==,size_16,color_FFFFFF,t_70)
+> 我设置了12G的交换分区，物理内存使用达到90%以上，系统依然是流畅，不会有任何卡顿【日常开4个IDEA  浏览器开20个以上标签,还有企业微信，微信和其他的常用工具。用黑苹果和win10 开2个就会卡顿到不能正常操作】--> 这个也是我选择linux的原因 :)
+
+
+
+
 - ElementaryOS5.1 (我用的就是这个下图，不知道的可以参考：https://elementary.io)
 
    ![系统信息](https://upload-images.jianshu.io/upload_images/4652214-1cf51b089b609cc6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
