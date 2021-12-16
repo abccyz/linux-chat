@@ -377,7 +377,11 @@ sudo add-apt-repository ppa:cybermax-dexter/sdl2-backport
 
 **使用到的资源(GitHub单文件超过100MB不让传):**
 链接: https://pan.baidu.com/s/16CNlsXd6Py3_MOV7_cGc-A 提取码: pvm3 
-
+	
+	
+**<font color=red>真实辛苦百度了网速限制的这么稳定</font> 再放个阿里云盘：**
+	「w2ksp4_en.exe」，点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
+链接：https://www.aliyundrive.com/s/gx8zKvkbSiP
 
 > 基本上完美了，O(∩_∩)O哈哈哈~ 如果使用过程中有什么问题可以给我留言或者发邮件 mailto:1290084841@qq.com 
 
