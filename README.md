@@ -388,11 +388,5 @@ sudo add-apt-repository ppa:cybermax-dexter/sdl2-backport
 **生命不息，折腾不止!**
 
 
-<small>如果对你有帮助，那就赞赏作者吧！！！</small>
-	
-![支付宝.png](https://upload-images.jianshu.io/upload_images/4652214-49a02afb4086e0ab.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![微信.png](https://upload-images.jianshu.io/upload_images/4652214-97f510652bacaf5d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
+ 
 
